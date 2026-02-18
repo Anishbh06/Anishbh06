@@ -1,18 +1,130 @@
-# 💫 About Me:
-**Introduction for Resume:**<br><br>Highly motivated engineering graduate with a strong foundation in full-stack web development and a passion for creating dynamic, user-centric applications. Skilled in Python, JavaScript, and MySQL, with hands-on experience in responsive web design, database integration, and software development. Demonstrates excellent project management, team collaboration, and problem-solving abilities, seeking an entry-level software engineer position to contribute to innovative solutions in a dynamic environment.
+# 👋 Hi, I'm Anish B H
 
+## 🧑‍💻 Python Backend Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anishbh) 
+Backend-focused Python developer with **1+ year of hands-on experience** building and deploying **production-ready FastAPI services**. Skilled in designing secure REST APIs, implementing JWT authentication, optimizing SQL queries, and deploying Dockerized applications. Actively seeking **Python / FastAPI backend roles**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anishbh06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anishbh06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anishbh06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Bengaluru, India  
+📧 anishbharish@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anishbh)  
+🌐 **Portfolio:** https://career-canvas-93.preview.emergentagent.com/  
+💻 [GitHub](https://github.com/Anishbh06)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anishbh06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 🚀 Backend & APIs
+- **Python**
+- **FastAPI**
+- Django, Flask
+- RESTful API design
+- JWT Authentication, OAuth2 (basics)
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+
+### ⚙️ DevOps & Tools
+- Docker
+- Git & GitHub
+- Render Deployment
+- GitHub Actions (basic)
+- Alembic Migrations
+
+### 🌐 Frontend (Basic / Supporting)
+- HTML, CSS, JavaScript
+- React (basic)
+- Bootstrap
+- Chart.js
+
+---
+
+## 💼 Professional Experience
+
+### **Junior Software Engineer**  
+**Integrated Risk Control Applications Pvt. Ltd. (IRCA)**  
+📅 Nov 2024 – Present | Bengaluru
+
+- Built and maintained **25+ backend REST APIs** using **PHP (CodeIgniter 3/4)** and SQL for mobile and web applications.
+- Optimized complex SQL queries and indexes, reducing report load times by **~20%**.
+- Designed and delivered **10+ features** for club management systems (booking, finance modules).
+- Coordinated with QA and operations teams for deployments, migrations, and production releases.
+
+---
+
+### **Full Stack Web Developer Intern**  
+**Varcons Technologies Pvt. Ltd.**  
+📅 Aug 2023 – Sep 2023
+
+- Developed a responsive **travel blog website** using HTML, CSS, JavaScript, and MongoDB.
+- Implemented CRUD functionality and ensured responsive UI across devices.
+- Deployed the project and documented setup and usage.
+
+---
+
+## 📌 Projects
+
+### 🔹 Social Media Backend
+**Tech:** FastAPI, PostgreSQL, SQLAlchemy, Docker
+
+- 🔗 **Live API Docs:**  
+  https://fastapi-social-backend-ivjy.onrender.com/docs
+- 💻 **Repository:**  
+  https://github.com/Anishbh06/fastapi-social-backend.git
+
+**Highlights:**
+- Dockerized FastAPI backend with PostgreSQL and SQLAlchemy.
+- JWT-based authentication with role-protected routes.
+- Strict per-user ownership enforcement.
+- Pagination and filtering for scalable APIs.
+- Published live API documentation and Postman collections.
+
+---
+
+### 🔹 Expense Tracker
+**Tech:** Django, Python, Bootstrap, Chart.js, MySQL / SQLite
+
+- 🔗 **Live App:**  
+  https://anishbh06.pythonanywhere.com/
+
+**Features:**
+- User authentication and expense tracking.
+- Monthly income vs expense visualization.
+- Support for recurring expenses.
+
+---
+
+### 🔹 Virtual Financial Assistant (VFA)
+**Tech:** Python, Tkinter, Pandas, Flask
+
+- Desktop-based finance assistant for budget tracking and advisory features.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Information Science**  
+Vemana Institute of Technology  
+📅 2020 – 2024  
+🎯 GPA: **7.8 / 10**
+
+---
+
+## 📜 Certifications
+- Advanced Python for Data Science (2023)
+- Fundamentals of Deep Learning (2022)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anishbh06&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anishbh06&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anishbh06&layout=compact&theme=dark)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Anishbh06&icon=0&color=0)
