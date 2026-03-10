@@ -7,7 +7,6 @@ Backend-focused Python developer with **1+ year of hands-on experience** buildin
 📍 Bengaluru, India  
 📧 anishbharish@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/anishbh)  
-🌐 **Portfolio:** https://career-canvas-93.preview.emergentagent.com/  
 💻 [GitHub](https://github.com/Anishbh06)
 
 ---
